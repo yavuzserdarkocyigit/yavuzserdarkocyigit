@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Yavuz Serdar Koçyiğit!
+## 👋 Hello, I'm Yavuz Serdar!
 
 🎓 New Graduate Electrical & Electronics Engineer with a keen interest in Artificial Intelligence and a focus on Natural Language Processing (NLP).
 
