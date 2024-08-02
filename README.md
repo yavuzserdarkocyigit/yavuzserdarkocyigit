@@ -5,7 +5,7 @@
 💻 **Skills & Technologies**
 - **Languages:** Python, C, Java, Verilog, SQL 
 - **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn
-- **Tools & Software:**  Matlab, Google Colab, Visual Studio Code, Arduino, ISE Design Suite, MS Office Suite
+- **Tools & Software:**  Matlab, Google Colab, Visual Studio Code, Arduino, ISE Design Suite
 - **Patterns & Practices:** Machine Learning, Data Processing, Object-Oriented Programming, FPGA Design
 
 📫 **Let's connect!**
