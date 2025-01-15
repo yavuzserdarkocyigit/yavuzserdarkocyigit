@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Yavuz Serdar!
 
-🎓 New Graduate Electrical & Electronics Engineer with a keen interest in Artificial Intelligence and a focus on Natural Language Processing.
+🎓 Recent graduate & Master’s student specializing in Machine Learning/AI.
 
 💻 **Technologies**
 - **Languages:** Python, Java, Verilog, SQL 
